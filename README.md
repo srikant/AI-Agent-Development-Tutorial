@@ -115,8 +115,8 @@ This repository contains 10 simple AI agent programs, each designed to demonstra
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/simple-ai-agents.git
-   cd simple-ai-agents
+   git clone https://github.com/srikant/AI-Agent-Development-Tutorial.git
+   cd AI-Agent-Development-Tutorial
    ```
 2. Install any required dependencies listed in each script using
    ```bash
