@@ -1,6 +1,6 @@
 # Simple AI Agent Programs
 
-This repository contains 10 simple AI agent programs, each designed to demonstrate a unique use case for AI or automation. These programs are beginner-friendly and serve as excellent examples of how AI can solve various problems or enhance productivity.
+This repository contains 30 simple AI agent programs, each designed to demonstrate a unique use case for AI or automation. These programs are beginner-friendly and serve as excellent examples of how AI can solve various problems or enhance productivity.
 
 ---
 
@@ -178,6 +178,76 @@ This repository contains 10 simple AI agent programs, each designed to demonstra
 
 - **File**: `name_meaning_assistant.py`
 - **Description**: Shares fun or interesting meanings of user-provided names.
+
+---
+
+### 21. Travel Itinerary Planner
+
+- **File**: `travel_itinerary_planner.py`
+- **Description**: Suggests activities for selected cities.
+
+---
+
+### 22. Recipe Suggestion Assistant
+
+- **File**: `recipe_suggestion.py`
+- **Description**: Suggests recipes based on available ingredients.
+
+---
+
+### 23. Travel Itinerary Planner
+
+- **File**: `travel_itinerary_planner_assistant.py`
+- **Description**: Suggests activities for selected cities.
+
+---
+
+### 24. Language Translation Assistant
+
+- **File**: `language_translation_assistant.py`
+- **Description**: Translates words/phrases between predefined languages.
+
+---
+
+### 25. Daily Workout Planner
+
+- **File**: `workout_planner.py`
+- **Description**: Generates workout routines based on user preferences.
+
+---
+
+### 26. Study Timer Assistant
+
+- **File**: `study_timer.py`
+- **Description**: Implements the Pomodoro technique for productivity.
+
+---
+
+### 27. Book Recommendation Assistant
+
+- **File**: `book_recommendation.py`
+- **Description**: Suggests books based on genres.
+
+---
+
+### 28. Movie Suggestion Assistant
+
+- **File**: `movie_suggestion.py`
+- **Description**: Recommends movies based on genres and year range.
+
+---
+
+### 29. Music Playlist Generator
+
+- **File**: `music_playlist_generator.py`
+- **Description**: Creates playlists based on genre and duration.
+
+---
+
+### 30. Meal Planner Assistant
+
+- **File**: `meal_planner.py`
+- **Description**: Generates meal plans for the day.
 
 ---
 
