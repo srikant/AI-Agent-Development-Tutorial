@@ -1,3 +1,4 @@
+![Simple AI Agent Programs](./SIMPLE_AI_AGENT_PROGRAMS_Srikanth_Dhondi.jpg?raw=true "Simple AI Agent Programs")
 # Simple AI Agent Programs
 
 This repository contains 30 simple AI agent programs, each designed to demonstrate a unique use case for AI or automation. These programs are beginner-friendly and serve as excellent examples of how AI can solve various problems or enhance productivity.
