@@ -111,6 +111,76 @@ This repository contains 10 simple AI agent programs, each designed to demonstra
 
 ---
 
+### 11. Expense Tracker AI Agent
+
+- **File**: `expense_tracker.py`
+- **Description**: Tracks user expenses, calculates totals, and manages financial records.
+
+---
+
+### 12. Basic Calculator AI Agent
+
+- **File**: `basic_calculator.py`
+- **Description**: Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+---
+
+### 13. Password Generator AI Agent
+
+- **File**: `password_generator.py`
+- **Description**: Generates secure, random passwords based on user preferences.
+
+---
+
+### 14. To-Do List Manager AI Agent
+
+- **File**: `todo_list_manager.py`
+- **Description**: Manages daily tasks, allowing users to add, view, update, and delete items.
+
+---
+
+### 15. Decision-Making Assistant AI Agent
+
+- **File**: `decision_maker.py`
+- **Description**: Helps users make decisions by randomly selecting an option from a user-provided list.
+
+---
+
+### 16. Habit Tracker AI Agent
+
+- **File**: `habit_tracker.py`
+- **Description**: Tracks daily habits, marks them as complete, and shows progress.
+
+---
+
+### 17. Flashcard Study Assistant
+
+- **File**: `flashcard_assistant.py`
+- **Description**: Helps users create, review, and track progress on flashcards for studying.
+
+---
+
+### 18. Restaurant Recommendation AI Agent
+
+- **File**: `restaurant_recommendation.py`
+- **Description**: Recommends restaurants based on user-provided cuisine preferences.
+
+---
+
+### 19. Motivational Quote Assistant
+
+- **File**: `motivational_quote.py`
+- **Description**: Provides users with random motivational quotes to inspire positivity.
+
+---
+
+### 20. Name Meaning Assistant
+
+- **File**: `name_meaning_assistant.py`
+- **Description**: Shares fun or interesting meanings of user-provided names.
+
+---
+
 ## How to Use
 
 1. Clone this repository:
